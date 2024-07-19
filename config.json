@@ -1,0 +1,51 @@
+{
+  "ascii": [
+    "███████╗    ██╗    ██████╗ ",
+    "██╔════╝    ██║    ██╔══██╗",
+    "███████╗    ██║    ██║  ██║",
+   "╚════██║    ██║    ██║  ██║",
+    "███████║    ██║    ██████╔╝",
+    "╚══════╝    ╚═╝    ╚═════╝ "
+  ],
+  "title": "HAL 9000",
+  "username": "User",
+  "hostname": "webshell",
+  "password": "HAL9000",
+  "repoLink": "https://github.com/One-eyed-warrior",
+  "social": {
+    "email": "sidbhatt2004@gmail.com",
+    "github": "One-eyed-warrior",
+    "linkedin": "siddhanth-bhattacharyya"
+  },
+  "aboutGreeting": "Welcome to webshell. State your purpose. Reach out.",
+  "projects": [
+    [
+      "PokeGAN",
+      "A GAN that generates Pokemon images. (or tries to atleast)",
+      "https://github.com/One-eyed-warrior/PokeGAN"
+    ]
+   ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
