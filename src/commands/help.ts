@@ -10,7 +10,7 @@ const helpObj = {
     ],
     [
       "'whoami'",
-      "Champion of the Sun for many, Siddhanth for all."
+      "The Ashen One for many, Siddhanth for all."
     ],
     ["'sudo'",
       "(Pass: HAL9000 do NOT use)"
