@@ -2,12 +2,13 @@ const whoamiObj = {
   "message": [
     [
       "I am Siddhanth Bhattacharyya,",
-      "I like working on ML/ Deep Learning models",
+      "I like working on ML/Deep Learning models",
+      "Can talk for hours about how Leclerc deserves a WDC ",
       "",
       "Roses are red, Violets are blue,",
       "GANs are cool and so are you",
       "",
-      "I mostly develop models with neural network based architectures",
+      "I mostly develop generative models",
       "",
       "Currently transitioning to PyTorch,",
       "Studying transformers, stats, lots of stuff"
