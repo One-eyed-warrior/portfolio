@@ -39,8 +39,9 @@ const createAbout = () : string[] => {
 
   string = '';
   string += SPACE.repeat(2);
-  string += `<i class='fa fa-file'></i> `; 
-  string += `<a target='_blank' href='https://drive.google.com/file/d/1rWhuIOpZWmviPLRomZAVhGi2_AXdpBu6/view?usp=sharing'>Resume</a>`;
+  string += `<i class='fa fa-file'></i> Resume`; 
+  string += SPACE.repeat(17 - 'LINKED'.length);  
+  string += `<a target='_blank' href='https://drive.google.com/file/d/1rWhuIOpZWmviPLRomZAVhGi2_AXdpBu6/view?usp=sharing'>link</a>`;
   about.push(string);
 
   about.push("<br>");
