@@ -9,7 +9,7 @@
   ],
   "title": "HAL 9000",
   "username": "User",
-  "hostname": "webshell",
+  "hostname": "sidshell",
   "password": "HAL9000",
   "repoLink": "https://github.com/One-eyed-warrior/portfolio",
   "social": {
@@ -17,7 +17,7 @@
     "github": "One-eyed-warrior",
     "linkedin": "siddhanth-bhattacharyya"
   },
-  "aboutGreeting": "Welcome to webshell. State your purpose. Reach out.",
+  "aboutGreeting": "Welcome to Sidshell. State your purpose. Reach out.",
   "projects": [
     [
       "PokeGAN",

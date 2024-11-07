@@ -191,7 +191,7 @@ function commandHandler(input : string) {
       break;
     case 'banner':
       if(bareMode) {
-        writeLines(["WebShell v1.0.42", "<br>"])
+        writeLines(["SidShell v1.0.42", "<br>"])
         break;
       }
       writeLines(BANNER);
