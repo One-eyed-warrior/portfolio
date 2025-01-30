@@ -11,7 +11,7 @@ const whoamiObj = {
       "I mostly develop generative models",
       "",
       "Currently transitioning to PyTorch,",
-      "Studying transformers, stats, lots of stuff"
+      "Probably listening to Paramore, or studying math",
     ]
   ]
 }
