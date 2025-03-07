@@ -23,7 +23,23 @@
       "PokeGAN",
       "A GAN that generates Pokemon images. (or tries to atleast)",
       "https://github.com/One-eyed-warrior/PokeGAN"
+    ],
+    [
+      "Diffusion Model",
+      "Trying my hand at implementing a diffusion model based on DDPM (Ho et. al.)",
+      "https://github.com/One-eyed-warrior/Diffusion-Model"
+    ],
+    [
+      "Paws of India",
+      "A Fullstack Website for an NGO that helps animals in need.",
+      "https://github.com/One-eyed-warrior/Paws-of-India"
+    ],
+    [
+      "QSVM",
+      "SVM Architecture to predict EoS between Hadronic Matter and Quark Gluon Plasma in QCD ",
+      "https://github.com/One-eyed-warrior/QSVM"
     ]
+   
    ],
   "colors": {
     "background": "#0C0623",
