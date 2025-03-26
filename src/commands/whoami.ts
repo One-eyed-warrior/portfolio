@@ -3,15 +3,14 @@ const whoamiObj = {
     [
       "I am Siddhanth Bhattacharyya,",
       "I like working on ML/Deep Learning models",
-      "Can talk for hours about how Leclerc deserves a WDC ",
+      "Can talk for hours about how Leclerc deserves a WDC or why Lebron deserves a 5th MVP",
       "",
       "Roses are red, Violets are blue,",
       "GANs are cool and so are you",
       "",
-      "I mostly develop generative models",
+      "I mostly develop generative  (for now)",
       "",
-      "Currently transitioning to PyTorch,",
-      "Probably listening to Paramore, or studying math",
+      "Probably listening to Alice in Chains or doing wonky math",
     ]
   ]
 }
