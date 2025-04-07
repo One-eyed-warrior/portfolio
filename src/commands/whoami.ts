@@ -8,7 +8,7 @@ const whoamiObj = {
       "Roses are red, Violets are blue,",
       "GANs are cool and so are you",
       "",
-      "I mostly develop generative  (for now)",
+      "I mostly develop generative models (image and text)",
       "",
       "Probably listening to Alice in Chains or doing wonky math",
     ]
