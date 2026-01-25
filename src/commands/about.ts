@@ -41,7 +41,7 @@ const createAbout = () : string[] => {
   string += SPACE.repeat(2);
   string += `<i class='fa fa-file'></i> Resume`; 
   string += SPACE.repeat(17 - 'LINKED'.length);  
-  string += `<a target='_blank' href='https://drive.google.com/file/d/1HW4NU0GwXtCmNPUCoiVy64wpzyS2MFe-/view?usp=sharing'>link</a>`;
+  string += `<a target='_blank' href='https://drive.google.com/file/d/1FWISjJRPx2MvtuhB7pLuyvpTo3HUVzhO/view?usp=sharing'>link</a>`;
   about.push(string);
 
   about.push("<br>");
